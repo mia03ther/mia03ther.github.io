@@ -14,7 +14,7 @@
   // ========== i18n ==========
   const dict = {
     en: {
-      navAbout: "About", navNow: "Now", navProjects: "Projects", navLab: "How I use AI", navGitHub: "GitHub",
+      navAbout: "About", navNow: "Now", navRoadmap: "Roadmap", navProjects: "Projects", navLab: "How I use AI", navGitHub: "GitHub",
       heroKicker: "STATUS // ONLINE", heroTagline: "Software · AI applications · Data",
       heroSub: "Builder in progress · Based in Guangzhou",
       heroCtaExplore: "Explore", heroCtaProjects: "Projects", heroCtaGithub: "GitHub",
@@ -26,6 +26,11 @@
       nowTitle: "Now · October 2026",
       nowItem1: "Working through Harvard's CS50P, one problem set a week, writing the code myself.",
       nowItem2: "Next: CS61A, then data structures and algorithms.",
+      roadmapTitle: "Roadmap",
+      roadmap1: "2026–27 · Fundamentals: CS50P, then CS61A, writing my own code.",
+      roadmap2: "2027–28 · CS core: data structures and algorithms, and a first project with real users.",
+      roadmap3: "2028–29 · Specialize: AI applications or data engineering, plus internships.",
+      roadmap4: "2029–30 · Ship: graduate with work I can explain line by line.",
       projectsTitle: "Projects",
       labTitle: "How I use AI", labDesc: "I use AI tools for research, planning and review. During this learning phase, I write and explain my own code first.",
       wfResearch: "Research", wfPlan: "Plan", wfCode: "Code", wfTest: "Test", wfReview: "Review", wfIterate: "Iterate",
