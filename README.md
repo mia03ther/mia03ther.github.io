@@ -2,7 +2,7 @@
 
 Personal developer homepage for **MIA_Ether** — Big Data Student · AI Explorer · Creative Developer.
 
-**Live**: [https://mia-ether.github.io](https://mia-ether.github.io)
+**Live**: [https://mia03ther.github.io](https://mia03ther.github.io)
 
 ## Design Philosophy
 
@@ -28,10 +28,10 @@ Inspired by Linear, Vercel, Apple Developer, and GitHub.
 
 ### Option A — Use as `username.github.io` repo
 
-1. Create a new repository named `mia-ether.github.io` (or rename existing)
+1. Create a new repository named `mia03ther.github.io` (or rename existing)
 2. Upload / push all files in this folder to the **root** of the repo
 3. Settings → Pages → Source: Deploy from a branch → `main` / root
-4. Wait 1–2 minutes → visit https://mia-ether.github.io
+4. Wait 1–2 minutes → visit https://mia03ther.github.io
 
 ### Option B — Keep existing repo + Actions / source folder
 
